@@ -3,9 +3,7 @@
   "description": "Bar for X window managers, in Node",
   "version": "0.0.4",
   "author": {
-    "email": "zac@zacanger.com",
-    "name": "Zac Anger",
-    "url": "https://zacanger.com"
+    "name": "Autumn Z"
   },
   "license": "MIT",
   "main": "index.js",
@@ -13,12 +11,12 @@
   "scripts": {
     "preversion": "sortpack && standard"
   },
-  "homepage": "https://github.com/zacanger/barx#readme",
+  "homepage": "https://github.com/zautumnz/barx#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zacanger/barx.git"
+    "url": "https://github.com/zautumnz/barx.git"
   },
-  "bugs": "https://github.com/zacanger/barx/issues",
+  "bugs": "https://github.com/zautumnz/barx/issues",
   "keywords": [
     "bar",
     "statusbar",
